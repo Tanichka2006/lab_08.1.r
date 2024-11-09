@@ -1,0 +1,8 @@
+﻿  UnitTest8.1 rec.cpp
+C:\Users\admin\source\repos\8.1 rec\8.1 rec\8.1 rec.cpp(35,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.1%20rec.cpp')
+  
+C:\Users\admin\source\repos\8.1 rec\UnitTest8.1 rec\UnitTest8.1 rec.cpp(16,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.1%20rec.cpp')
+  
+  UnitTest8.1 rec.vcxproj -> C:\Users\admin\source\repos\8.1 rec\x64\Debug\UnitTest8.1 rec.dll
